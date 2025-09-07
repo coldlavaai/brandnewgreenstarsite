@@ -1,0 +1,25 @@
+{
+  "name": "greenstar-premium-solar",
+  "version": "1.0.0",
+  "description": "Premium luxury solar solutions website for Greenstar",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'No build step required for static site'",
+    "start": "npx serve .",
+    "preview": "npx serve ."
+  },
+  "keywords": [
+    "solar",
+    "luxury",
+    "premium",
+    "energy",
+    "greenstar",
+    "renewable"
+  ],
+  "author": "Greenstar Solar",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
